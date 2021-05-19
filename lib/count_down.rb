@@ -2,6 +2,6 @@
 count=10
 while count>0 do
   puts count.to_s
-  count--;
+  count--
 end
 puts "Happy New Year!"
